@@ -1,4 +1,4 @@
-# pokecurl
+# pokecurl 👾👨‍💻
 
 # How to use it
 
